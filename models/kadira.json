@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "kadira",
   "author": "encodedlife",
-  "model": "kadira.tflite",
+  "model": "./kadira.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
